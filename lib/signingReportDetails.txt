@@ -1,0 +1,70 @@
+> Task :app:signingReport
+Variant: debug
+Config: debug
+Store: C:\Users\Nathan Alisangco\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 0F:51:1E:59:AE:FD:26:C4:FA:1A:8F:2C:C8:89:AE:02
+SHA1: 4F:1A:80:E9:05:77:15:BA:5F:A1:BA:14:F5:11:B5:D3:77:6B:98:82
+SHA-256: 67:39:DB:7B:61:1A:56:49:78:71:CF:BC:42:61:A1:A0:AD:20:47:83:F2:53:AC:B5:01:9C:3E:4D:09:BB:22:EA
+Valid until: Thursday, 2 September 2055
+----------
+Variant: release
+Config: debug
+Store: C:\Users\Nathan Alisangco\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 0F:51:1E:59:AE:FD:26:C4:FA:1A:8F:2C:C8:89:AE:02
+SHA1: 4F:1A:80:E9:05:77:15:BA:5F:A1:BA:14:F5:11:B5:D3:77:6B:98:82
+SHA-256: 67:39:DB:7B:61:1A:56:49:78:71:CF:BC:42:61:A1:A0:AD:20:47:83:F2:53:AC:B5:01:9C:3E:4D:09:BB:22:EA
+Valid until: Thursday, 2 September 2055
+----------
+Variant: profile
+Config: debug
+Store: C:\Users\Nathan Alisangco\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 0F:51:1E:59:AE:FD:26:C4:FA:1A:8F:2C:C8:89:AE:02
+SHA1: 4F:1A:80:E9:05:77:15:BA:5F:A1:BA:14:F5:11:B5:D3:77:6B:98:82
+SHA-256: 67:39:DB:7B:61:1A:56:49:78:71:CF:BC:42:61:A1:A0:AD:20:47:83:F2:53:AC:B5:01:9C:3E:4D:09:BB:22:EA
+Valid until: Thursday, 2 September 2055
+----------
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\Nathan Alisangco\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 0F:51:1E:59:AE:FD:26:C4:FA:1A:8F:2C:C8:89:AE:02
+SHA1: 4F:1A:80:E9:05:77:15:BA:5F:A1:BA:14:F5:11:B5:D3:77:6B:98:82
+SHA-256: 67:39:DB:7B:61:1A:56:49:78:71:CF:BC:42:61:A1:A0:AD:20:47:83:F2:53:AC:B5:01:9C:3E:4D:09:BB:22:EA
+Valid until: Thursday, 2 September 2055
+----------
+
+> Task :cloud_firestore:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\Nathan Alisangco\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 0F:51:1E:59:AE:FD:26:C4:FA:1A:8F:2C:C8:89:AE:02
+SHA1: 4F:1A:80:E9:05:77:15:BA:5F:A1:BA:14:F5:11:B5:D3:77:6B:98:82
+SHA-256: 67:39:DB:7B:61:1A:56:49:78:71:CF:BC:42:61:A1:A0:AD:20:47:83:F2:53:AC:B5:01:9C:3E:4D:09:BB:22:EA
+Valid until: Thursday, 2 September 2055
+----------
+
+> Task :firebase_auth:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\Nathan Alisangco\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 0F:51:1E:59:AE:FD:26:C4:FA:1A:8F:2C:C8:89:AE:02
+SHA1: 4F:1A:80:E9:05:77:15:BA:5F:A1:BA:14:F5:11:B5:D3:77:6B:98:82
+SHA-256: 67:39:DB:7B:61:1A:56:49:78:71:CF:BC:42:61:A1:A0:AD:20:47:83:F2:53:AC:B5:01:9C:3E:4D:09:BB:22:EA
+Valid until: Thursday, 2 September 2055
+----------
+
+> Task :firebase_core:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\Nathan Alisangco\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 0F:51:1E:59:AE:FD:26:C4:FA:1A:8F:2C:C8:89:AE:02
+SHA1: 4F:1A:80:E9:05:77:15:BA:5F:A1:BA:14:F5:11:B5:D3:77:6B:98:82
+SHA-256: 67:39:DB:7B:61:1A:56:49:78:71:CF:BC:42:61:A1:A0:AD:20:47:83:F2:53:AC:B5:01:9C:3E:4D:09:BB:22:EA
+Valid until: Thursday, 2 September 2055
+----------
