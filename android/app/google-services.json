@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "486126734960",
+    "project_id": "finalspractical-14b04",
+    "storage_bucket": "finalspractical-14b04.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486126734960:android:48ea064ede7b870a29aeb5",
+        "android_client_info": {
+          "package_name": "com.example.finals_practical"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA-IPK8gQDyM6SZqPM2TJEQmXfwHEFZEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
